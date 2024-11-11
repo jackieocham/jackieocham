@@ -18,7 +18,7 @@ jobs:
   build:
     permissions: 
       actions: write
-      contents: read
+      contents: write
       packages: read
       pages: write
     # The type of runner that the job will run on
