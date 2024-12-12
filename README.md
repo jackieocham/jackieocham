@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello World!!<br><br>I'm currently working on an exploratory data analysis project, Sleep Data Analysis. I'm looking for an entry-level or junior position as a research or data analyst. Please, reach out if you like collaboration and want to work on a project together. 🌱<br><br>Ask me about calligraphy and becoming pen-pals if you enjoy receiving snail-mail! ✒️</p>
+<p align="left">Hello World!!<br><br>I'm currently working on a business intelligence analysis project to flush out my data portfolio. I'm looking for an entry-level or junior position as a research or data analyst. Please, reach out if you like collaboration and want to work on a project together. 🌱<br><br>Ask me about calligraphy and becoming pen-pals if you enjoy receiving snail-mail! ✒️</p>
 
 ###
 
